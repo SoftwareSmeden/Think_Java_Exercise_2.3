@@ -1,4 +1,4 @@
-# Think_Java_Øvelse_2.3
+# Think Java - Øvelse 2.3
 
 <p> Dette program er skrevet ved at en bestemt tid er angivet. Ud fra dette er der skrevet flere matematiske udreginger i form af, hvor der bliver vist, hvor lang tid der er tilbage af dagen samt, hvor meget af dagen er brugt. Dette bliver vist i minutter, sekunder og procent.
 
